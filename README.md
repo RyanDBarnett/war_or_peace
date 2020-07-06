@@ -1,6 +1,6 @@
 ## War or Peace
 
-A command line version of the card game War.
+A command line version of the card game War created by [Ryan Barnett](https://github.com/RyanDBarnett).
 
 Setup Instructions:
 
