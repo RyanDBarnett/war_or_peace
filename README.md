@@ -21,4 +21,4 @@ While inside the war_or_peace directory type ruby war_or_peace_runner.rb into th
 ruby war_or_peace_runner.rb
 ```
 
-![Alt Text](https://media.giphy.com/media/l3UwvjJiGvh2vYmF0q/giphy.gif =100%)
+<iframe src="https://giphy.com/embed/l3UwvjJiGvh2vYmF0q" width="480" height="90" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l3UwvjJiGvh2vYmF0q">via GIPHY</a></p>
