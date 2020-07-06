@@ -9,7 +9,7 @@ git clone git@github.com:RyanDBarnett/war_or_peace.git
 cd war_or_peace
 ruby war_or_peace_runner.rb
 ```
-![Alt Text](https://giphy.com/embed/VgZX7veNI8v9b0ltca)
+![Alt Text](https://media.giphy.com/media/VgZX7veNI8v9b0ltca/giphy.gif)
 
 Example Gameplay:
 
