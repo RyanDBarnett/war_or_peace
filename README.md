@@ -11,7 +11,7 @@ git clone git@github.com:RyanDBarnett/war_or_peace.git
 cd war_or_peace
 ```
 
-![Alt Text](https://media.giphy.com/media/VfEtgW8ZUxwy2RcTH8/giphy.gif)
+![Alt Text](https://media.giphy.com/media/VfEtgW8ZUxwy2RcTH8/giphy.gif =100%)
 
 How to Play:
 
@@ -21,4 +21,4 @@ While inside the war_or_peace directory type ruby war_or_peace_runner.rb into th
 ruby war_or_peace_runner.rb
 ```
 
-![Alt Text](https://media.giphy.com/media/l3UwvjJiGvh2vYmF0q/giphy.gif)
+![Alt Text](https://media.giphy.com/media/l3UwvjJiGvh2vYmF0q/giphy.gif =100%)
