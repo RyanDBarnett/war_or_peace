@@ -23,7 +23,7 @@ ruby war_or_peace_runner.rb
 
 <img src="https://media.giphy.com/media/l3UwvjJiGvh2vYmF0q/giphy.gif" alt="giphy of how to play instructions" width="100%">
 
-### What I Learned/Improved On
+### What I Learned/Improved On:
 
 * Test Driven Development
 * Object Oriented Programming
